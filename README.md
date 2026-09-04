@@ -9,7 +9,8 @@ The robot features a handmade copper-wire chassis and was programmed using the *
 ## 📸 Project Photos
 
 ### Front View
-![Robot Front](images/robot-front.jpg)
+![Robot Front](<img width="1280" height="1030" alt="WhatsApp Image 2026-09-04 at 1 58 17 PM (3)" src="https://github.com/user-attachments/assets/07529668-218f-4961-a541-1314e53554f8" />
+)
 
 ### Rear View
 ![Robot Rear](images/robot-back.jpg)
