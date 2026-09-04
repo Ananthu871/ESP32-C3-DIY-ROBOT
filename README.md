@@ -9,13 +9,16 @@ The robot features a handmade copper-wire chassis and was programmed using the *
 ## 📸 Project Photos
 
 
-![Robot Front](https://github.com/Ananthu871/ESP32-C3-DIY-ROBOT/blob/main/images/WhatsApp%20Image%202026-09-04%20at%201.58.16%20PM.jpeg)
+![Robot Front](https://github.com/Ananthu871/ESP32-C3-DIY-ROBOT/blob/main/images/WhatsApp%20Image%202026-09-04%20at%201.58.17%20PM%20(3).jpeg)
 
 
-![Robot Rear](images/robot-back.jpg)
+![Robot Rear]()
 
 
-![Robot Top](images/robot-top.jpg)
+![Robot Top]()
+![Robot Rear]()
+![Robot Rear]()
+![Robot Rear]()
 
 ---
 
